@@ -1,6 +1,6 @@
 # ExamForge — Online Exam Portal
 
-A local hackathon-ready React + Vite + Express + SQLite exam portal.
+A local React + Vite + Express + SQLite exam portal.
 
 ## Quick start (Windows)
 
